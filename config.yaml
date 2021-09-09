@@ -2,3 +2,5 @@ baseURL: "phi.archi"
 languageCode: "en-us"
 title: "phi architecture"
 pygmentsstyle: 'monokai'
+
+hugo mod init github.com/steenblikrs/hugo-theme-novela
